@@ -1,0 +1,8 @@
+# IntelliJ
+*.iml
+.idea
+
+# DBVisual Working Files
+
+*.met
+/ansible/inventory.yaml
